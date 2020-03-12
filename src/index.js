@@ -18,7 +18,7 @@ console.log("ff");
 
 var m = 1;
 if (m > 0) {
-    var mm = 1;
+var mm = 1;
     console.info(mm);
 }
 
